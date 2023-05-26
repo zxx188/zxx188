@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Xiaoxuan
 - 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning Business Analytics
-- 💞️ I’m looking to working on any data engineer job
+- 💞️ I’m looking to work on any data engineer job
 - 📫 How to reach me: xzhai@student.hult.edu
 
 <!---
