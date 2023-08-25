@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Xiaoxuan
-- 👀 I’m interested in Data Engineering
+- 👀 I’m interested in Business Analysis
 - 🌱 I’m currently learning Business Analytics
-- 💞️ I’m looking to work on any data engineer job
-- 📫 How to reach me: xzhai@student.hult.edu
+- 💞️ I’m looking to work on any analyst job
+- 📫 How to reach me: xzhai68@gmail.com
 
 <!---
 zxx188/zxx188 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
